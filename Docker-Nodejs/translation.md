@@ -1,6 +1,6 @@
 # translation(zh-CN)
 ## i18n & L10n
-> [nodejs-docker-webapp(zh-CN 翻译文档)](https://github.com/xgqfrms-GitHub/Node.js/master/Docker-Nodejs/translation.md)
+> [nodejs-docker-webapp(zh-CN 翻译文档)](https://github.com/xgqfrms-GitHub/Node.js/blob/master/Docker-Nodejs/translation.md)
 
 ***
 *** 
