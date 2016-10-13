@@ -109,16 +109,15 @@ EXPOSE 8080
 最后但同样重要,用**CMD**定义运行你的应用程序的命令，它定义了你的运行时。
 在这里，我们将使用基础的**npm start**这将运行**node server.js**来启动你的服务器：
 
+```
+CMD [ "npm", "start" ]
+``` 
 > 
-# **PS**:(npm start ==== node server.js)
+# **PS**:(npm start === node server.js)
 ``` package.json
 "scripts": {
     "start": "node server.js"
   }
-``` 
-
-```
-CMD [ "npm", "start" ]
 ``` 
 
 现在你的Dockerfile应该看起来像这样的：
