@@ -2,6 +2,7 @@
 ## i18n & L10n
 > [nodejs-docker-webapp(zh-CN 翻译文档)](https://github.com/xgqfrms-GitHub/Node.js/blob/master/Docker-Nodejs/translation.md)
 
+**Copyright © 2016-2050 xgqfrms. All Rights Reserved.**
 ***
 *** 
 # Dockerizing a Node.js web app
